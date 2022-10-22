@@ -1,6 +1,6 @@
 # Feed The Snake
 
-Feed The Snake is a snake game created using Pygame.
+Snake game created using Pygame.
  
 How to play:
 - Use keyboard arrow keys to move up, down, left and right
